@@ -1,0 +1,67 @@
+.Login{
+    padding-left: 33%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    padding-top: 10%;
+}
+
+.email{
+    padding-left: 33%;
+    font-size: large;
+    
+    
+}
+.email1{
+    margin-left: 33%;
+    margin-right:auto
+    
+}
+
+.password{
+    padding-left: 33%;
+    font-size: large;
+    
+}
+.password1{
+    margin-left: 33%;
+    margin-right:auto
+}
+.submit{
+    background-color:rgba(0, 0, 128, 0.944);
+    margin-left: 33%;
+    margin-right:42%;
+    box-shadow: 5px 5px 5px skyblue;
+    color: white;
+}
+
+.footer{
+    margin-left: 33%;
+    margin-right:auto
+}
+
+form input[type='text'],input[type='password']{
+    height:50px;
+    font-size: larger;
+    
+}
+
+form input[type="submit"]{
+    height: 40px;
+    font-size: larger;
+    margin-left:45%
+    padding-left 33%;
+    
+
+}
+
+img{
+    padding: 10px;
+    margin:0px 5px 0px;
+  
+}
+
+.square{
+    padding: 10px solid black;
+   margin: 10%;
+    background-color: rgb(148, 221, 221);
+}
